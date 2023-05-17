@@ -2532,3 +2532,35 @@ StScrollBar StButton#hhandle:active {
   background-color: rgba(0, 0, 0, 0);
   border-radius: 0px;
 }
+
+
+/* ------------------- */
+/* CUSTOM STYLING HERE */
+/* ------------------- */
+
+
+/* Panel Styling */
+/* ------------- */
+
+.panel-bottom {
+  background-color: #ecf4ec;
+  border: none;
+}
+
+/* Menu Styling */
+/* ------------ */
+
+.popup-menu-content {
+  background-color: #ecf4ec;
+  border: none;
+}
+
+.menu-favorites-box {
+  background-color: #ecf4ec;
+  border: none;
+}
+
+#menu-search-entry:focus {
+  background-color: #ecf4ec;
+  border: none;
+}
